@@ -3,7 +3,7 @@ extends EditorScenePostImportPlugin
 
 # A dictionary of search_material_name: replacement_material_resource_path
 @export var overrides: Dictionary = {
-	'POLYGONModularFantasyHeroes_Base': "res://modular_fantasy_characters/Textures/M_ModularFantasyHeroes.tres",
+
 }
 
 var material_cache: Dictionary
